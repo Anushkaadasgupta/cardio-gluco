@@ -6,11 +6,6 @@ A Flask portfolio demo that maps eight entered health markers to one of three Ra
 ![Flask 3.0.3](https://img.shields.io/badge/Flask-3.0.3-000000?logo=flask&logoColor=white)
 ![scikit-learn 1.5.0](https://img.shields.io/badge/scikit--learn-1.5.0-F7931E?logo=scikit-learn&logoColor=white)
 
-## Demo
-
-Live demo: <!-- TODO: add Render URL -->
-
-> Screenshot TODO: add a real capture of the running interface here. The repository's JPG files are not screenshots.
 
 ## Overview
 
